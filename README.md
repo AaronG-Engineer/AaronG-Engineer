@@ -12,9 +12,9 @@ I hold:
 
 My passion lies in DevOps, Cloud Networking, and Virtual Machines. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I’m focused on building reliable and scalable cloud environments while deepening my expertise in automation and infrastructure as code.  
-My goal is to become a Solutions Architect, designing efficient cloud solutions that improve performance and security.  
-Right now, I’m honing my skills in DevOps, CI/CD, and cloud networking to bridge the gap between operations and development—ensuring smooth deployments and resilient systems.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;I’m focused on building reliable and scalable cloud environments while deepening my expertise in automation and infrastructure as code. My goal is to become a Solutions Architect, designing efficient cloud solutions that improve performance and security.</p>  
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Right now, I’m honing my skills in DevOps, CI/CD, and cloud networking to bridge the gap between operations and development—ensuring smooth deployments and resilient systems.</p>
 
 
 ## 🛠 Tech Stack  
