@@ -58,6 +58,13 @@ My passion lies in DevOps, Cloud Networking, and Virtual Machines.
   <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" width="100">
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024DCFA.png" width="200">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png" width="200">
+</div>
+
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/aaronglunt/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
