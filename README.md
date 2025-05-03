@@ -39,23 +39,23 @@ My passion lies in DevOps, Cloud Networking, and Virtual Machines.
 ## 🏆 Certifications  
 
 <div align="center">
-  <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">
-  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120">
-  <img src="https://images.credly.com/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" width="120">
-  <img src="https://images.credly.com/size/340x340/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob" width="120">
-  <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="120">
-  <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="120">
-  <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="120">
+  <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100">
+  <img src="https://images.credly.com/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" width="100">
+  <img src="https://images.credly.com/size/340x340/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob" width="100">
+  <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="100">
+  <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="100">
+  <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://images.credly.com/size/340x340/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png" width="120">
-  <img src="https://images.credly.com/size/340x340/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png" width="120">
-  <img src="https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" width="120">
-  <img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" width="120">
-  <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" width="120">
+  <img src="https://images.credly.com/size/340x340/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" width="100">
 </div>
 
 
