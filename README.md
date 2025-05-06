@@ -5,12 +5,17 @@
 
 I'm a Cloud Engineer with expertise in Cybersecurity, Cloud Computing, and IT Management.
 
-📜 Currently studying **Oracle Cloud Infrastructure 2025 DevOps Professional (1Z0-1109-25)**  
-🔹 Working through **5 Intermediate AWS Cloud Projects** with *Tech with Lucy*  
+## 📜 Currently Studying  
+**Oracle Cloud Infrastructure 2025 DevOps Professional (1Z0-1109-25)**  
+
+## 🔹 Ongoing AWS Projects  
+**Working through 5 Intermediate AWS Cloud Projects with Tech with Lucy**  
 
 
 
-I hold:
+
+
+**I hold:**
 - 🛡️ Associate's Degree in Cybersecurity
 - ☁️ Bachelor's Degree in Cloud Computing
 - 🎓 Master's Degree in IT Management
