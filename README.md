@@ -1,30 +1,27 @@
 👋 Hey there! I'm Aaron <br>
 
-🚀 About Me
+🚀 Cloud Engineer | AWS | Infrastructure | Automation
 
-
-I'm a Cloud Engineer with expertise in Cybersecurity, Cloud Computing, and IT Management.
+With a background in Cloud Computing, Cybersecurity, and IT Management, I design cloud-native environments that are automated, scalable, and cost-efficient. I'm passionate about infrastructure design, cloud networking, and building systems that work as reliably in production as they do on paper.
 
 ## 📜 Currently Studying  
-**Oracle Cloud Infrastructure 2025 DevOps Professional (1Z0-1109-25)**  
+**AWS Certified Solutions Architect - Associate**  
 
 ## 🔹 Ongoing AWS Projects  
-**Working through 5 Intermediate AWS Cloud Projects with Tech with Lucy**  
-
-
-
-
+• Deploying and documenting AWS projects to showcase real-world skills (check out my teardown repo!)  
+• Exploring containerized AI tools and automating deployments in my home lab  
+• Refining my skills in Terraform, Docker, CI/CD, and AWS Lambda workflows
 
 **I hold:**
 - 🛡️ Associate's Degree in Cybersecurity
 - ☁️ Bachelor's Degree in Cloud Computing
 - 🎓 Master's Degree in IT Management
 
-My passion lies in DevOps, Cloud Networking, and Virtual Machines. 
+My passion lies in Cloud Engineering, Cloud Networking, and infrastructure design. 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;I’m focused on building reliable and scalable cloud environments while deepening my expertise in automation and infrastructure as code. My goal is to become a Solutions Architect, designing efficient cloud solutions that improve performance and security.</p>  
+<p>&nbsp;&nbsp;&nbsp;&nbsp;I'm focused on architecting secure and scalable cloud environments, with an emphasis on automation, cost optimization, and real-world reliability. My long-term goal is to become a Solutions Architect, leading the design of cloud-native solutions that solve business challenges through technical clarity and strategic thinking.</p>  
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Right now, I’m honing my skills in DevOps, CI/CD, and cloud networking to bridge the gap between operations and development—ensuring smooth deployments and resilient systems.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Currently, I'm sharpening my expertise in cloud architecture, Infrastructure as Code, and distributed systems—building hands-on projects that showcase my ability to plan, deploy, and document robust cloud solutions.</p>
 
 
 ## 🛠 Tech Stack  
