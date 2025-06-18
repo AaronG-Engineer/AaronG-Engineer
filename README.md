@@ -21,7 +21,7 @@ My passion lies in Cloud Engineering, Cloud Networking, and infrastructure desig
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;I'm focused on architecting secure and scalable cloud environments, with an emphasis on automation, cost optimization, and real-world reliability. My long-term goal is to become a Solutions Architect, leading the design of cloud-native solutions that solve business challenges through technical clarity and strategic thinking.</p>  
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Currently, I'm sharpening my expertise in cloud architecture, Infrastructure as Code, and distributed systems—building hands-on projects that showcase my ability to plan, deploy, and document robust cloud solutions.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Currently, I'm sharpening my expertise in cloud architecture, Infrastructure as Code, and distributed systems building, hands-on projects that showcase my ability to plan, deploy, and document robust cloud solutions.</p>
 
 
 ## 🛠 Tech Stack  
