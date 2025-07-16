@@ -25,7 +25,7 @@ My passion lies in Cloud Engineering, Cloud Networking, and infrastructure desig
 
 
 ## 🛠 Tech Stack  
-- 💻 **Cloud:** AWS, Azure, GCP  
+- 💻 **Cloud:** AWS, Azure, GCP, OCI
 - 📦 **Infrastructure:** Docker, Learning Kubernetes  
 - 🔐 **Security:** IAM, Network Security  
 - ⚙️ **Automation:** Learning CI/CD (GitHub Actions, Terraform)
